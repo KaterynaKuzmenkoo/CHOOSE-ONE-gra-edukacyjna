@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ChooseOne</string>
+    <string name="start">Start</string>
+    <string name="back">Back</string>
+    <string name="level">Level:</string>
+    <string name="level1">Level 1</string>
+    <string name="levelone">Choose the number that is greater.\nQuestions may be repeated until you get 20 points.</string>
+    <string name="textcontinue">Continue</string>
+    <string name="leveloneEnd">"Congratulations on completing the level!\n
+        Did you know that the number 8 is considered lucky in many cultures around the world?
+        In Chinese culture, it's particularly auspicious because the pronunciation of the word for 'eight' sounds similar to the word for 'wealth' or 'prosper'. "</string>
+    <string name="level2">Level 2</string>
+    <string name="leveltwo">Сhoose the planet that is closer to the sun.\nQuestions may be repeated until you get 20 points.</string>
+    <string name="leveltwoEnd">"Congratulations on completing the level!\n
+        New levels will appear in the game soon!\n
+        Did you know that Venus rotates in the opposite direction to most planets in our solar system?
+        This means that if you were standing on Venus, the Sun would rise in the west and set in the east."</string>
+    <string name="levelthree">Сhoose the item that weighs more.\nQuestions may be repeated until you get 20 points.</string>
+    <string name="levelthreeEnd">"Congratulations on completing the level!\n
+        The largest pencil in the world was created in 2007 and weighed approximately 82 tons. It was constructed in Karlsruhe, Germany, standing over 22 meters tall."
+    </string>
+    <string name="level3">Level 3</string>
+</resources>
